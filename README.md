@@ -1,4 +1,4 @@
-Download files > green "code" button on main directory. 
+Download files > green "code" button on main directory. "Download ZIP".
 
 UNZIP FILES
 
